@@ -1,0 +1,33 @@
+<resources>
+	<string name="app_name">Laboratório Virtual de Matemática</string>
+
+	<string name="objeto">Objeto</string>
+	<string name="listar_objeto">Listar Objetos</string>
+	<string name="gerenciar_Objetos">Gerenciar Objetos</string>
+	<string name="excluir_Objeto_mensagem">Deseja excluir o objeto?</string>
+
+	<string name="conteudo">Conteúdo</string>
+	<string name="listar_conteudos">Listar Conteúdos</string>
+	<string name="gerenciar_conteudos">Gerenciar Conteúdos</string>
+	<string name="dialog_excluir_conteudo">Deseja realmente excluir o Conteúdo?</string>
+
+	<string name="unidade">Unidade</string>
+	<string name="listar_unidades">Listar Unidades</string>
+	<string name="gerenciar_unidades">Gerenciar Unidades</string>
+	<string name="dialog_excluir_unidade">Deseja realmente excluir a Unidade?</string>
+
+	<string name="listar">Listar</string>
+	<string name="adicionar">Adicionar</string>
+	<string name="editar">Editar</string>
+	<string name="salvar">Salvar</string>
+	<string name="excluir">Excluir</string>
+	<string name="nome">Nome</string>
+	<string name="site">Site</string>
+
+	<string name="nivel">Nível</string>
+	<string name="selecione_a_unidade">Selecione a Unidade*</string>
+	<string name="selecione_o_objeto">Selecione o Objeto*</string>
+	<resources>
+
+
+	</resources>
